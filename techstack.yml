@@ -2,7 +2,7 @@ repo_name: abenteuerzeit/hanafuda
 report_id: 114b62e9172868b6501fec54f78b803c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:49:29+00:00'
+timestamp: '2024-02-29T18:40:11+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: master
@@ -53,7 +53,7 @@ tools:
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-07-21 18:34:09.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.4.12
   open_source: true
